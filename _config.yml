@@ -16,3 +16,5 @@ email_address: pankesh.bamotra@gmail.com
 
 # Build settings
 markdown: kramdown
+plugins:
+  - jekyll-sitemap
