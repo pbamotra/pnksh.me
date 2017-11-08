@@ -1,11 +1,23 @@
--   qualification: BSc(Hons) Computer Programming
-    school: Oxford
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-   qualification: Master of computational data science
+    school: School of computer science <br/> Carnegie Mellon University
+    period: 2015 - 2016
+    gpa: 3.75
+    description: ◃ Search Engines. <br/>
+                 ◃ Natural language processing. <br/>
+                 ◃ Probabilistic Graphical Models. <br/>
+                 ◃ Multimedia Databases and Data Mining. <br/>
+                 ◃ Deep Learning. <br/>
+                 ◃ Machine Learning for Large Datasets.
+                 
+                 
+-   qualification: B.Tech, Computer Science and Engg.
+    school: Vellore Institute of Technology
+    period: 2009 - 2013
+    gpa: 9.24
+    description: ◃ Data structures and algorithms. <br/>
+                 ◃ Operating systems. <br/>
+                 ◃ Linear algebra. <br/>
+                 ◃ Computer programming and problem solving. <br/>
+                 ◃ Digital Logic. <br/>
+                 ◃ Algorithm design and analysis.
 
--   qualification: A-Level Computing
-    school: Some High School
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
--   qualification: A-Level Maths
-    school: Some High School
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

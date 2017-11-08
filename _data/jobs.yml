@@ -1,7 +1,19 @@
--   title: Engineering Lead
-    company: Company X
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-   title: Research Engineer
+    company: Coupang USA
+    period: Feb 2017 - present
+    description: Working with the Retail Systems team in Seattle to ramp up product catalog exponentially. Current projects involve building deep learning models using textual and visual data. In the initial months, I also worked with e-commerce data science team to build machine learning models for customer lifetime value and user search behaviour. 
 
--   title: Front end developer
-    company: Company Y
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-   title: Software Intern - Big Data analytics
+    company: Autodesk Inc.
+    period: May 2016 - Aug 2016
+    description: Worked with the cloud platform team to migrate data from legacy system and ingest it into new Apache Spark based platform. The solution was based on AWS, Apache Spark, Apache Oozie, and Apache Hadoop. The new platform helped the organization tune its data ingestion, transport, and compute layers.
+    
+-   title: Software Engineer
+    company: PayPal India
+    period: Jun 2013 - Jul 2015
+    description: Worked with Open Analytics Platform group to develop self-service database provisioning tool for analysts and developers. My contributions included refactoring the legacy code, developing plug-and-play solution for Qlikview and Teradata, and deliving a Teradata SQL based dashboard to analyse clickstream data.
+    
+-   title: Software Development Intern
+    company: PayPal India
+    period: Jan 2013 - Jun 2013
+    description: Worked with seller risk management to create early warning dashboards. My contribution include developed a Teradata SQL based solution to analyse buyer account habits, creating early warning indicator reports for teams across NA and EMEA for fraud analysis, and modeling post transaction risk mitigation.

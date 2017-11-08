@@ -19,9 +19,22 @@
             <p class="title">{{ qualification.qualification }}</p>
             <p class="company">{{ qualification.school }}</p>
             <p class="period">{{ qualification.period }}</p>
+            <p class="period">GPA:&nbsp;&nbsp;{{ qualification.gpa }}</p>
         </dt><!--
         --><dd>
             <p>{{ qualification.description }}</p>
+        </dd>
+    {% endfor %}
+</dl>
+
+<h3 class="section-title">Skills</h3>
+<dl class="skills">
+    {% for skill in site.data.skills %}
+        <dt>
+            <p class="title">{{ skill.title }}</p>
+        </dt><!--
+        --><dd>
+            <p>{{ skill.description }}</p>
         </dd>
     {% endfor %}
 </dl>

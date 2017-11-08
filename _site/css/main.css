@@ -129,7 +129,15 @@ dt, dd {
     width: 70%; }
 
   .education dt, .education dd {
-    width: 50%; } }
+    width: 50%; }
+
+  .skills dt {
+    width: 30%;
+    padding-right: 40px;
+    margin-bottom: 20px; }
+  .skills dd {
+    width: 70%;
+    margin-bottom: 20px; } }
 .title {
   margin: 0;
   font-weight: bold;
