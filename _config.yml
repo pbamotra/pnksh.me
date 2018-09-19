@@ -3,9 +3,9 @@
 # Site settings
 title: Pankesh Bamotra
 email: pankesh.bamotra@gmail.com
-description: Resume, projects, and brief about Abhishek Bamotra.
+description: Resume, projects, and brief about Pankesh Bamotra.
 baseurl: ""
-url: ""
+url: "https://pnksh.me/"
 name: Pankesh Bamotra
 job: data scientist
 location: Seattle, Washington
